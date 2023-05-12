@@ -28,16 +28,12 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angularjs.svg' alt='angularjs' height='40'>](https://github.com/jeferson0993/jeferson0993-crud-angularjs-firebase)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>](https://github.com/jeferson0993/AngularWorkShop)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/svelte.svg' alt='svelte' height='40'>]
-[<img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='javascript' width="45" height="45">]
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='javascript' width="45" height="45">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="45" height="45"/>
   
 #### <a href="">BackEnd</a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg' alt='firebase' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='aws' height='40'>](#)
+[<img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' alt='csharp' width="45" height="45">](#)
 
 #### <a href="">Databases</a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mariadb.svg' alt='mariadb' height='40'>](#)
@@ -45,6 +41,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'>](#)
 
 #### <a href="">Tools</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/debian.svg' alt='debian' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='vscode' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webstorm.svg' alt='webstorm' height='40'>](#)
