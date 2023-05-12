@@ -32,22 +32,17 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="45" height="45"/>
   
 #### <a href="">BackEnd</a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node' height='40'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node' width="45" height="45">](#)
 [<img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' alt='csharp' width="45" height="45">](#)
 
 #### <a href="">Databases</a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mariadb.svg' alt='mariadb' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgres' height='40'>](#)
+<img src='https://cdn-icons-png.flaticon.com/512/5968/5968364.png' alt='mssql' width="45" height="45">(#)
+<img src='https://cdn-icons-png.flaticon.com/512/5968/5968313.png' alt='mysql' width="45" height="45">(#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'>](#)
 
 #### <a href="">Tools</a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/debian.svg' alt='debian' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='vscode' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webstorm.svg' alt='webstorm' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg' alt='firefox' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/insomnia.svg' alt='insomnia' height='40'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitkraken.svg' alt='git' height='40'>](#)
+<img src='https://cdn-icons-png.flaticon.com/512/906/906324.png' alt='vstudio' width="45" height="45">
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelmu21&show_icons=true&locale=en&layout=compact" alt="adelmu21" /></p>
 
