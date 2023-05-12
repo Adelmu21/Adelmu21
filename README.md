@@ -25,9 +25,6 @@
 
 <br><br>
 #### <a href="">FrontEnd</a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angularjs.svg' alt='angularjs' height='40'>](https://github.com/jeferson0993/jeferson0993-crud-angularjs-firebase)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>](https://github.com/jeferson0993/AngularWorkShop)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/svelte.svg' alt='svelte' height='40'>]
 <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='javascript' width="45" height="45">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="45" height="45"/>
   
