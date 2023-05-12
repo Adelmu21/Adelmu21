@@ -31,7 +31,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vuejs' height='40'>](https://github.com/jeferson0993/crud-vuejs-firebase)
 [<img src='https://www.flaticon.com/free-icon/typescript_5968381' alt='jquery' height='40'>]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="vscode" width="45" height="45"/>
+https://cdn-icons-png.flaticon.com/512/5968/5968381.png
 #### <a href="">BackEnd</a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](#)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](#)
