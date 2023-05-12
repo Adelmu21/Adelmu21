@@ -35,7 +35,6 @@
 #### <a href="">Databases</a>
 <img src='https://cdn-icons-png.flaticon.com/512/5968/5968364.png' alt='mssql' width="45" height="45">(#)
 <img src='https://cdn-icons-png.flaticon.com/512/5968/5968313.png' alt='mysql' width="45" height="45">(#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'>](#)
 
 #### <a href="">Tools</a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
