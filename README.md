@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C# and .NET applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adelmu21](https://github.com/Adelmu21)
+- 👨‍💻 All of my projects are available at [https://github.com/Adelmu21](https://github.com/Adelmu21?tab=repositories)
 
 - 📫 How to reach me **adelmu21@gmail.com**
 
