@@ -49,7 +49,7 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelmu21&show_icons=true&locale=en&layout=compact" alt="adelmu21" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelmu21&langs_count=8)](https://github.com/adelmu21/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmu21&show_icons=true&locale=en" alt="adelmu21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelmu21&" alt="adelmu21" /></p>
