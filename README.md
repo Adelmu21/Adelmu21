@@ -1,10 +1,10 @@
 ### Hi there 👋
 ![MasterHead](https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg)
 <h1 align="center">Hi 👋, I'm Adel Moraywed</h1>
-<h3 align="center">A FullStack developer</h3>
+<h3 align="center">A FullStack developer with a focus on Mobile Apps</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-- 🌱 I’m currently learning **Java and Python3**
+- 🌱 I’m currently upskilling **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adelmu21](https://github.com/Adelmu21?tab=repositories)
 
