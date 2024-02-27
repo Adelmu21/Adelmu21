@@ -4,7 +4,7 @@
 <h3 align="center">A FullStack developer with a focus on Mobile Apps</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-- 🌱 I’m currently upskilling **Flutter**
+- 🌱 I’m currently upskilling in **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adelmu21](https://github.com/Adelmu21?tab=repositories)
 
